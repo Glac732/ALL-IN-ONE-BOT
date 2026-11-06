@@ -1,1 +1,0 @@
-JARVIS desktop app is maintained in a separate repository. This marker is intentionally not added; no change should be made here.
